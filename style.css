@@ -1,0 +1,16 @@
+#banana {
+    width: 400px;
+    margin: 100px auto;
+}
+
+#banana figcaption {
+    line-height: 200%;
+    font-size: 500%;
+    color: rgb(180, 180, 180);
+    text-align: center;
+    font-family: 'Oldenburg', cursive;
+}
+
+span {
+    color: rgb(60, 120, 180);
+}
